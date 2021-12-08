@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "firstname": "Адилет",
+      "lastname": "Атамбаев",
+      "number": "+996550339001",
+      "id": 1
+    },
+    {
+      "firstname": "Эрлан",
+      "lastname": "Абытов",
+      "number": "+996555090925",
+      "id": 2
+    },
+    {
+      "firstname": "Илон",
+      "lastname": "Маск",
+      "number": "+123456789",
+      "id": 3
+    }
+  ]
+}
